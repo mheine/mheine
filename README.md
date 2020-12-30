@@ -1,5 +1,8 @@
-### Hi there 👋
+### Heya! 👋
 
+I'm Marcus Heine. By day I work as a backend developer, mostly working in node.js or C#. When I'm not at the office (or working remotely) I like to tinker with my configuration files, play around with visualizations of all sorts, or just create small pieces of (hopefully) helpful software. I'm a strong supporter of open source, and will always use them for both my personal and my professional projects.
+
+If you find a repository you like, if you want to know more about what I do, or if you just want to talk, feel free to get in touch with me! My socials and other information can be found on [my personal website](https://mheine.se). 
 <!--
 **mheine/mheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
